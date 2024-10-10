@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "beliy-81/event-reserve",
     "type": "project",
     "description": "Приложение для бронирования встреч и мероприятий",
     "keywords": ["laravel", "framework"],
